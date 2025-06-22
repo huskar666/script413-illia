@@ -1,0 +1,11 @@
+{
+  "name": "my-node-project",
+  "version": "1.0.0",
+  "description": "простий проєкт на node.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "ілля",
+  "license": "ISC"
+}
